@@ -1,0 +1,22 @@
+Segment,Product,Price
+Enterprise,Amarilla,125
+Enterprise,Carretera,50
+Enterprise,Montana,100
+Enterprise,Paseo,15
+Enterprise,Velo,350
+Enterprise,VTT,40
+Government,Amarilla,125
+Government,Carretera,50
+Government,Montana,100
+Government,Paseo,15
+Government,Velo,350
+Government,VTT,40
+Midmarket,Amarilla,125
+Midmarket,Carretera,50
+Midmarket,Montana,100
+Midmarket,Paseo,15
+Midmarket,VTT,40
+Small Business,Carretera,50
+Small Business,Montana,100
+Small Business,Paseo,15
+Small Business,VTT,40
