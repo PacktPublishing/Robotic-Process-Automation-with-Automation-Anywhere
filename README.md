@@ -23,7 +23,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 
 ## Instructions and Navigations
-All of the files are organized in the repository.
+All of the files are organized in the repository. You can find the color images <a href="https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere/blob/main/Color%20Images.pdf"> here </a>
 
 **Following is what you need for this book:**
 
